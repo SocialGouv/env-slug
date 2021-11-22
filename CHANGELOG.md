@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/SocialGouv/env-slug/compare/v1.0.1...v1.0.2) (2021-11-22)
+
+
+### Bug Fixes
+
+* **tsconfig:** types ([1e22146](https://github.com/SocialGouv/env-slug/commit/1e221468386086bb1dd890b3a3345690e1a182b5))
+
 ## [1.0.1](https://github.com/SocialGouv/env-slug/compare/v1.0.0...v1.0.1) (2021-11-22)
 
 
