@@ -14,11 +14,11 @@ class EnvSlug extends Command {
   static args = [{ name: "project-branch", required: true }];
 
   // eslint-disable-next-line @typescript-eslint/require-await
-  async run(): void {
+  async run(): Promise<void> {
     const { args } = this.parse(EnvSlug);
     const projectBranch: string = args["project-branch"];
     this.log(generate(projectBranch));
   }
 }
 
-export = EnvSlug;
+export default EnvSlug;
