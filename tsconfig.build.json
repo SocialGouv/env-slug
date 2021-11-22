@@ -5,7 +5,11 @@
     "noEmit": false,
     "outDir": ".",
     "rootDir": "src",
-    "sourceMap": true
+    "sourceMap": true,
+    "types": [
+      "jest",
+      "node"
+    ]
   },
   "include": [
     "src"
