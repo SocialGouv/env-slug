@@ -1,3 +1,11 @@
+## [1.0.11](https://github.com/SocialGouv/env-slug/compare/v1.0.10...v1.0.11) (2021-11-22)
+
+
+### Bug Fixes
+
+* **tsconfig:** wip ([780b548](https://github.com/SocialGouv/env-slug/commit/780b548c7fbc494e58a5d6de4f5c8c18bd82f130))
+* **tsconfig:** wip ([75cd854](https://github.com/SocialGouv/env-slug/commit/75cd8546a2d1bb1fd3274c8a4abfc037e387a846))
+
 ## [1.0.10](https://github.com/SocialGouv/env-slug/compare/v1.0.9...v1.0.10) (2021-11-22)
 
 
