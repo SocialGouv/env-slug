@@ -1,0 +1,16 @@
+root: true
+overrides:
+  - files: "*.js"
+    extends:
+      - "@socialgouv/eslint-config-recommended"
+  - files: "*.ts"
+    extends:
+      - "@socialgouv/eslint-config-typescript"
+    rules:
+      "@typescript-eslint/no-unsafe-member-access": off
+      "@typescript-eslint/ban-ts-comment": off
+      "@typescript-eslint/prefer-optional-chain": off
+      import/no-unresolved:
+        - error
+        - ignore:
+            - "^@socialgouv/kosko-charts/"

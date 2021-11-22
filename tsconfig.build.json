@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "declaration": true,
+    "noEmit": false,
+    "outDir": ".",
+    "rootDir": "src",
+    "sourceMap": true
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "**/*.test.ts",
+    "**/*.mock.ts"
+  ]
+}
