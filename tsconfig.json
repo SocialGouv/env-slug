@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "rootDir": ".",
     "baseUrl": ".",
     "esModuleInterop": true,
     "importHelpers": true,
@@ -15,8 +14,7 @@
     "skipLibCheck": true,
     "strict": true,
     "strictNullChecks": true,
-    "target": "ES2021",
-    "typeRoots": [ "./node_modules/@types" ],
+    "target": "ES2019",
     "types": [
       "jest",
       "node"
