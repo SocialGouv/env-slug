@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/SocialGouv/env-slug/compare/v1.0.17...v1.0.18) (2021-11-22)
+
+
+### Bug Fixes
+
+* **releaserc:** wip ([51aacd2](https://github.com/SocialGouv/env-slug/commit/51aacd2e7aa55d0f1387ded9275084d23bd1a0bc))
+
 ## [1.0.17](https://github.com/SocialGouv/env-slug/compare/v1.0.16...v1.0.17) (2021-11-22)
 
 
