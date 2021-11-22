@@ -16,6 +16,7 @@
     "strict": true,
     "strictNullChecks": true,
     "target": "ES2019",
+    "typeRoots": [ "./node_modules/@types" ],
     "types": [
       "jest",
       "node"
