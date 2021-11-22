@@ -3,7 +3,7 @@
   "compilerOptions": {
     "declaration": true,
     "noEmit": false,
-    "outDir": "lib",
+    "outDir": "dist",
     "sourceMap": true
   },
   "include": [

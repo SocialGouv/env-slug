@@ -34,7 +34,7 @@
     "node": ">=16.0.0"
   },
   "files": [
-    "lib"
+    "dist"
   ],
   "lint-staged": {
     "*.{j,t}s": [
