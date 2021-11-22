@@ -54,6 +54,7 @@
   "repository": "SocialGouv/env-slug.git",
   "scripts": {
     "posttest": "eslint . --ext .ts --config .eslintrc.yml",
+    "postversion": "mkdir -p dist && cp -r bin lib package.json dist",
     "build": "tsc -p tsconfig.build.json",
     "e2e": "jest -c ./e2e/jest.config.js",
     "lint": "eslint .",

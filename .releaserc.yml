@@ -2,8 +2,7 @@ plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
   - - "@semantic-release/npm"
-    - prepare: yarn build && cp package.json lib/
-      pkgRoot: lib
+    - pkgRoot: dist
   - "@semantic-release/changelog"
   - - "@semantic-release/git"
     - assets:
