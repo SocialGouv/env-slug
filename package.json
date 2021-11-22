@@ -33,9 +33,6 @@
   "engines": {
     "node": ">=16.0.0"
   },
-  "files": [
-    "dist"
-  ],
   "lint-staged": {
     "*.{j,t}s": [
       "eslint --fix",
@@ -49,11 +46,16 @@
     "gitlab"
   ],
   "license": "Apache-2.0",
-  "main": "dist/index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
   "repository": "SocialGouv/env-slug.git",
   "scripts": {
     "posttest": "eslint . --ext .ts --config .eslintrc.yml",
     "build": "tsc -p tsconfig.build.json",
+    "prepub": "copy package.json dist",
     "e2e": "jest -c ./e2e/jest.config.js",
     "lint": "eslint .",
     "lint:fix": "yarn lint --fix",
@@ -61,7 +63,6 @@
     "test": "jest",
     "typecheck": "tsc"
   },
-  "types": "lib/index.d.ts",
   "oclif": {
     "bin": "env-slug"
   },
