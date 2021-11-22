@@ -11,7 +11,7 @@
     "@oclif/parser": "^3.8.6",
     "@oclif/plugin-help": "^3",
     "slugify": "^1.6.3",
-    "tslib": "^1"
+    "tslib": "^2"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
