@@ -1,3 +1,30 @@
+## [1.0.21](https://github.com/SocialGouv/env-slug/compare/v1.0.20...v1.0.21) (2021-11-22)
+
+
+### Bug Fixes
+
+* **releaserc:** wip ([8fa8bb9](https://github.com/SocialGouv/env-slug/commit/8fa8bb95d6850cc73328201543b4bb966758ebad))
+* **releaserc:** wip ([9dc7cc6](https://github.com/SocialGouv/env-slug/commit/9dc7cc66eac1b443486dc16c878d2708bf01d3c8))
+* **releaserc:** wip ([a97055c](https://github.com/SocialGouv/env-slug/commit/a97055c90536ab836a937b676783fcb68b2cf4e9))
+* **releaserc:** wip ([253e4d8](https://github.com/SocialGouv/env-slug/commit/253e4d815590e908e6a7efaee55489bc2c028451))
+* **releaserc:** wip ([bfee2c7](https://github.com/SocialGouv/env-slug/commit/bfee2c7a8906474e06776a819742a3fb5b0c7973))
+* **releaserc:** wip ([7585649](https://github.com/SocialGouv/env-slug/commit/7585649dfababeffc01e0e2478409d06020ac328))
+* **releaserc:** wip ([958b7b3](https://github.com/SocialGouv/env-slug/commit/958b7b3a91ce579a2afd7438862b1778be818b7f))
+* **releaserc:** wip ([8212539](https://github.com/SocialGouv/env-slug/commit/8212539ef7e6d82145beea52cf6fe5a97879b8dd))
+* **releaserc:** wip ([4bef71c](https://github.com/SocialGouv/env-slug/commit/4bef71c2882ff263897801370a74853c1be3be09))
+* **releaserc:** wip ([e117020](https://github.com/SocialGouv/env-slug/commit/e117020c6f24cc98157d15592ff862bcbd74d6cd))
+* **releaserc:** wip ([db171bf](https://github.com/SocialGouv/env-slug/commit/db171bfbfc2cf12b96faf6c71c94604ca1e50de3))
+* **releaserc:** wip ([86470dd](https://github.com/SocialGouv/env-slug/commit/86470dd564494bcd648696dd55b513a37a56b67c))
+* **releaserc:** wip ([3c01452](https://github.com/SocialGouv/env-slug/commit/3c01452ec47df78b461f0bf3d2b372b731c3eda8))
+* **releaserc:** wip ([04d373c](https://github.com/SocialGouv/env-slug/commit/04d373cd5b2cbb9476b0f641b96cefd2b29a341f))
+* **releaserc:** wip ([05036c9](https://github.com/SocialGouv/env-slug/commit/05036c934c845fb89340162141d85df45e906f03))
+* **releaserc:** wip ([7275d72](https://github.com/SocialGouv/env-slug/commit/7275d72ed576455c8286a8219b7ba5b541998423))
+* **releaserc:** wip ([9f92e26](https://github.com/SocialGouv/env-slug/commit/9f92e26c824d1d289fe0dfff8c21099d1b4b3c45))
+* **releaserc:** wip ([e73bf03](https://github.com/SocialGouv/env-slug/commit/e73bf0398f6137d41f35cd2f8f5ee4f96ae6dda7))
+* **releaserc:** wip ([a20ef5a](https://github.com/SocialGouv/env-slug/commit/a20ef5aa986a335c01919e56e788dae35121c56a))
+* **releaserc:** wip ([3ac0b57](https://github.com/SocialGouv/env-slug/commit/3ac0b577d3d6b0e1a81483e0aa28fd144a91eeb6))
+* **releaserc:** wip ([d377e5e](https://github.com/SocialGouv/env-slug/commit/d377e5e8f5f6430eb7bf1d0c596b30d6fe40fdee))
+
 ## [1.0.20](https://github.com/SocialGouv/env-slug/compare/v1.0.19...v1.0.20) (2021-11-22)
 
 
