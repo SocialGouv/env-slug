@@ -1,22 +1,23 @@
-import {Command, flags} from '@oclif/command'
+import { Command, flags } from "@oclif/command";
 
-import {generate} from '.'
+import { generate } from ".";
 
 class EnvSlug extends Command {
-  static description = 'Generate slug for K8S namespace or DB name from git branch'
+  static description =
+    "Generate slug for K8S namespace or DB name from git branch";
 
   static flags = {
-    version: flags.version({char: 'v'}),
-    help: flags.help({char: 'h'})
-  }
+    help: flags.help({ char: "h" }),
+    version: flags.version({ char: "v" }),
+  };
 
-  static args = [{name: 'project-branch', required: true, }]
+  static args = [{ name: "project-branch", required: true }];
 
-  async run() {
-    const {args, flags} = this.parse(EnvSlug)
-    this.log(generate(args["project-branch"]))
-
+  run(): void {
+    const { args } = this.parse(EnvSlug);
+    const projectBranch: string = args["project-branch"];
+    this.log(generate(projectBranch));
   }
 }
 
-export = EnvSlug
+export = EnvSlug;
