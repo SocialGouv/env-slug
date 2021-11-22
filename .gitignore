@@ -3,6 +3,5 @@
 /.nyc_output
 /dist
 /lib
-bin/lib
 /tmp
 node_modules

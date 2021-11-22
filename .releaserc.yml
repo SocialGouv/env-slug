@@ -9,5 +9,6 @@ plugins:
         - CHANGELOG.md
         - package.json
         - README.md
+        - lib
       message: "chore(release): version ${nextRelease.version}\n\n${nextRelease.notes}"
   - "@semantic-release/github"
