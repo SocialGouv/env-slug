@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "rootDir": "src",
+    "rootDir": ".",
     "baseUrl": ".",
     "esModuleInterop": true,
     "importHelpers": true,
