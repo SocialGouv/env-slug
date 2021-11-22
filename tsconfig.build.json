@@ -3,13 +3,9 @@
   "compilerOptions": {
     "declaration": true,
     "noEmit": false,
-    "outDir": ".",
+    "outDir": "lib",
     "rootDir": "src",
-    "sourceMap": true,
-    "types": [
-      "jest",
-      "node"
-    ]
+    "sourceMap": true
   },
   "include": [
     "src"
