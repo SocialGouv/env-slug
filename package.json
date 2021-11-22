@@ -46,15 +46,15 @@
     "gitlab"
   ],
   "license": "Apache-2.0",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
   "files": [
-    "lib"
+    "dist/**"
   ],
   "repository": "SocialGouv/env-slug.git",
   "scripts": {
     "posttest": "eslint . --ext .ts --config .eslintrc.yml",
-    "postversion": "mkdir -p dist && cp -r bin lib package.json dist",
+    "postversion": "mkdir -p dist && cp -r bin lib package.json .gitignore .npmignore README.md CHANGELOG.md LICENSE dist",
     "build": "tsc -p tsconfig.build.json",
     "e2e": "jest -c ./e2e/jest.config.js",
     "lint": "eslint .",
