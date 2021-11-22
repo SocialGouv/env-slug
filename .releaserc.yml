@@ -4,6 +4,7 @@ plugins:
   - "@semantic-release/npm"
   - "@semantic-release/changelog"
   - - "@semantic-release/exec"
+    - prepare: yarn build
   - - "@semantic-release/git"
     - assets:
         - CHANGELOG.md
