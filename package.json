@@ -46,8 +46,8 @@
     "gitlab"
   ],
   "license": "Apache-2.0",
-  "main": "dist/lib/index.js",
-  "types": "dist/lib/index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "lib/**"
   ],
