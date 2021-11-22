@@ -35,10 +35,6 @@ jobs:
           #   /usr/bin/env: 'node': No such file or directory
           # see https://github.com/nodejs/node-v0.x-archive/issues/3911
           sudo ln -s $(which node) /usr/bin/node
-
-      # - name: Debugging reset cache
-      #   run: rm -rf $(yarn cache dir)
-
       - name: Installing
         run: yarn --frozen-lockfile --perfer-offline --link-duplicates
 
