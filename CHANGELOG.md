@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/SocialGouv/env-slug/compare/v1.0.14...v1.0.15) (2021-11-22)
+
+
+### Bug Fixes
+
+* **npm:** wip ([e11705f](https://github.com/SocialGouv/env-slug/commit/e11705fd4b0b2f8473d36a483d5c6528eeec3406))
+
 ## [1.0.14](https://github.com/SocialGouv/env-slug/compare/v1.0.13...v1.0.14) (2021-11-22)
 
 
