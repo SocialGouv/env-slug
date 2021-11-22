@@ -1,8 +1,6 @@
 plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
-  - - "@semantic-release/exec"
-    - prepare: cp package.json lib/package.json
   - - "@semantic-release/npm"
     - pkgRoot: lib
   - "@semantic-release/changelog"
