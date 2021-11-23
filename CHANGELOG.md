@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/SocialGouv/env-slug/compare/v1.0.22...v1.1.0) (2021-11-23)
+
+
+### Features
+
+* **tests:** improve getting kosko-charts original ([d9cce84](https://github.com/SocialGouv/env-slug/commit/d9cce84883b0a0c737f54c90f45bf70a6129536d))
+
 ## [1.0.22](https://github.com/SocialGouv/env-slug/compare/v1.0.21...v1.0.22) (2021-11-22)
 
 
