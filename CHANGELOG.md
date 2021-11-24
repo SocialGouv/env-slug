@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/SocialGouv/env-slug/compare/v1.1.0...v1.1.1) (2021-11-24)
+
+
+### Bug Fixes
+
+* force release ([4f8b707](https://github.com/SocialGouv/env-slug/commit/4f8b707186e5d2ffd00406e9823c3f48546e4dd1))
+* **force-release:** pull request [#12](https://github.com/SocialGouv/env-slug/issues/12) from SocialGouv/revolunet-patch-1 ([c94c36e](https://github.com/SocialGouv/env-slug/commit/c94c36ebee84f81f967f1a5ed4a83bf29f6a02bb))
+
 # [1.1.0](https://github.com/SocialGouv/env-slug/compare/v1.0.22...v1.1.0) (2021-11-23)
 
 
