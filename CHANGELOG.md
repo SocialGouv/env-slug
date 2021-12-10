@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/SocialGouv/env-slug/compare/v1.1.2...v1.1.3) (2021-12-10)
+
+
+### Bug Fixes
+
+* **oclif-resolution:** break yarndep infinite loop ([f063455](https://github.com/SocialGouv/env-slug/commit/f06345504ae1b6df16a6cc503d005617718850b4))
+
 ## [1.1.2](https://github.com/SocialGouv/env-slug/compare/v1.1.1...v1.1.2) (2021-12-10)
 
 
