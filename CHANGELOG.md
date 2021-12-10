@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/SocialGouv/env-slug/compare/v1.2.1...v1.2.2) (2021-12-10)
+
+
+### Bug Fixes
+
+* **tslib:** add tslib ([719c94c](https://github.com/SocialGouv/env-slug/commit/719c94c9119c1e40d8e9a4c0e3eef24fa8d3aa6b))
+
 ## [1.2.1](https://github.com/SocialGouv/env-slug/compare/v1.2.0...v1.2.1) (2021-12-10)
 
 
