@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "esModuleInterop": true,
-    "importHelpers": true,
+    "importHelpers": false,
     "module": "commonjs",
     "moduleResolution": "node",
     "noEmit": true,
