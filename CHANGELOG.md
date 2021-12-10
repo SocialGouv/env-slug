@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/SocialGouv/env-slug/compare/v1.1.4...v1.2.0) (2021-12-10)
+
+
+### Features
+
+* **commander:** replace buggy oclif ([6e0acc3](https://github.com/SocialGouv/env-slug/commit/6e0acc382a3fdff35b2ec86c61ac75cece369874))
+
 ## [1.1.4](https://github.com/SocialGouv/env-slug/compare/v1.1.3...v1.1.4) (2021-12-10)
 
 
