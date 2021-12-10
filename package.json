@@ -12,6 +12,9 @@
     "@oclif/plugin-help": "^3",
     "slugify": "^1.6.3"
   },
+  "resolutions": {
+    "@oclif/command": "1.8.10"
+  },
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
