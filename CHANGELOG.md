@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/SocialGouv/env-slug/compare/v1.2.0...v1.2.1) (2021-12-10)
+
+
+### Bug Fixes
+
+* **tslib:** importHelpers ([c12dba9](https://github.com/SocialGouv/env-slug/commit/c12dba967b5280526f6a39af05da563c8aa74235))
+
 # [1.2.0](https://github.com/SocialGouv/env-slug/compare/v1.1.4...v1.2.0) (2021-12-10)
 
 
