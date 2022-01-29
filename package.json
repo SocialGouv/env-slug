@@ -5,7 +5,7 @@
   "author": "Fabrique numérique des Ministères Sociaux <dsi-incubateur@sg.social.gouv.fr> (https://incubateur.social.gouv.fr)",
   "bugs": "https://github.com/SocialGouv/env-slug/issues",
   "dependencies": {
-    "commander": "^8.3.0",
+    "commander": "^9.0.0",
     "slugify": "^1.6.3",
     "tslib": "^2.3.1"
   },
