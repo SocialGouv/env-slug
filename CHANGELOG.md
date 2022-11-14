@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/SocialGouv/env-slug/compare/v1.2.2...v1.2.3) (2022-11-14)
+
+
+### Bug Fixes
+
+* dummy ([f75753e](https://github.com/SocialGouv/env-slug/commit/f75753eb03619df0ad26d37ca743068b6f86bd3d))
+
 ## [1.2.2](https://github.com/SocialGouv/env-slug/compare/v1.2.1...v1.2.2) (2021-12-10)
 
 
