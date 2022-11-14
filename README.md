@@ -7,3 +7,4 @@ Generate slug for K8S namespace or DB name from git branch
 ```sh
 ENV_SLUG=$(npx @socialgouv/env-slug my-project-my-awesomebranch-name)
 ```
+
